@@ -1,1 +1,0 @@
-                cout << PC->right->data << ' ';
